@@ -3,7 +3,17 @@ entries:
   myapp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-10-08T02:47:44.129311695Z"
+    created: "2024-10-08T03:08:39.939917985Z"
+    description: This is sample helm chart ...
+    digest: 9c71b6c9921901d95f6d53a4d62d6bc5611240dc7623991f03e3080406bcae83
+    name: myapp
+    type: application
+    urls:
+    - myapp-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-10-08T03:08:39.936445754Z"
     description: This is sample helm chart ...
     digest: 26adc12071bd6ae4edb7ace71870a8dfaa93f13c2da4fa93c5194e5ec4fec7c0
     name: myapp
@@ -11,4 +21,4 @@ entries:
     urls:
     - myapp-1.0.0.tgz
     version: 1.0.0
-generated: "2024-10-08T02:47:44.128845225Z"
+generated: "2024-10-08T03:08:39.936090334Z"
